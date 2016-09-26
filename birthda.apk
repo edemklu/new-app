@@ -1,0 +1,5 @@
+<TextView
+      Android:Text=”Happy Birthday!”
+      Andriod:Backgroud =@android:color/black    (attributes)
+      Android:layout_width=”150dp”
+      Android:Layout_hieght=”75dp”/>
